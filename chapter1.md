@@ -1,3 +1,11 @@
-# First Chapter
+午夜梦醒有感
+============
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+* 离家十载鬓已荒
+* 壮志未酬目沧桑
+* 夜深有梦慈母笑
+* 且唤儿啊挽发黄
+* 黄浦潺潺月影长
+* 沪州深处雾茫茫
+* 明朝北走从云过
+* 欲摘云霞报家堂
